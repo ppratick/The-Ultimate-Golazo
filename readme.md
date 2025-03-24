@@ -11,12 +11,11 @@
 - [Libraries Required](#libraries-required)
 - [Fonts Used](#fonts-used)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Description
 
-In "The Ultimate Golazo", you step into the shoes of a soccer coach, managing your team on the pitch against a skilled AI opponent. The game combines strategic planning with quick reflexes to deliver an engaging and realistic soccer experience.
+In "The Ultimate Golazo", you step into the shoes of players, where your team plays on the pitch against a skilled AI opponent. The game combines strategic planning with quick reflexes to deliver an engaging and realistic soccer experience.
 
 ## Features
 
@@ -56,10 +55,6 @@ In "The Ultimate Golazo", you step into the shoes of a soccer coach, managing yo
 ## Contributing
 
 Contributions are welcome! If you’d like to improve "The Ultimate Golazo", please fork the repository and create a pull request with your changes. For major changes, open an issue first to discuss what you would like to change.
-
-## License
-
-This project is open source and available under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 
